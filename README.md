@@ -12,3 +12,5 @@ An end-to-end Machine Learning web application that predicts second-hand car pri
 * **Real-time Prediction:** Instant price evaluation using a pre-trained Scikit-learn Pipeline model.
 * **Formatted Financial Output:** Clear visual display with currency formatting.
 * **Responsive Layout:** Multi-column user-friendly interface with dark mode support.
+
+* <img width="1185" height="431" alt="image" src="https://github.com/user-attachments/assets/d26acb5c-f555-4e95-a2c3-2eb6d83d35b4" />
