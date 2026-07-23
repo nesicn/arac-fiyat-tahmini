@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts second-hand car prices based on vehicle specifications. Built with Python, Scikit-learn, and Streamlit, and deployed on Streamlit Community Cloud.
 
-🚀 **Live Demo:** [Click here to launch the web app](https://ikinci-el-arac-fiyat-tahmin.streamlit.app/)
+🚀 **Live Demo:** [Click here to launch the web app](https://ikinci-el-arac-fiyat-tahmin.streamlit.app)
 
 ---
 
